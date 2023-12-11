@@ -1,0 +1,27 @@
+#pluginAppObj_6_05 .cd-headline {
+	display: block;
+	font-family: 'Times New Roman';
+	font-size: 18px;
+	line-height: 26px;
+	color: #0030BF;
+	font-style: normal;
+	font-weight: normal;
+}
+
+#pluginAppObj_6_05 .cd-headline b,
+#pluginAppObj_6_05 .cd-headline i,
+#pluginAppObj_6_05 .cd-headline em {
+	
+	font-family: 'Times New Roman';
+	font-size: 18px;
+	line-height: 26px;
+	color: #0030BF;
+	font-style: normal !important;
+	font-weight: normal;
+}
+
+/* Loading bar color */
+#pluginAppObj_6_05 .cd-headline.loading-bar .cd-words-wrapper::after {
+	background-color: #0030BF;
+}
+
